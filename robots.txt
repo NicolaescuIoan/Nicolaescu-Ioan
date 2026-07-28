@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nicolaescuioan.github.io/Nicolaescu-Ioan/sitemap.xml
